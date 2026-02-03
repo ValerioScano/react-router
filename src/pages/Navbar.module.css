@@ -1,0 +1,9 @@
+ul {
+    display: flex;
+    gap: 1rem;
+    justify-content: end;
+    align-items: center;
+    list-style-type: none;
+    color: blue;
+    font-weight: bold;
+}
